@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第一个文件.md",
+                "file": "2026日报/2026-09-01-周二.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一个文件"
+              "title": "2026-09-01-周二"
             }
           }
         ]
@@ -42,7 +42,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -201,8 +201,14 @@
   },
   "active": "ab34491874395937",
   "lastOpenFiles": [
-    "未命名 1.md",
+    "同步指南.md",
+    "同步指南.md.tmp.23872.3941ba5482a0",
     "第一个文件.md",
+    "未命名.md",
+    "2026日报",
+    "2026日报/2026-08-31-周一.md",
+    "2026日报/2026-09-01-周二.md",
+    "未命名 1.md",
     "未命名.base",
     "未命名 1.base",
     "未命名 2.base"
